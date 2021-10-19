@@ -1,4 +1,5 @@
 print ("Hellow World")
 print ("Another print statement got added")
 print ("New line added from dev branch")
+print ("understanding conflict from master")
 print ("dev has added another line")
